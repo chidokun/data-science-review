@@ -7,3 +7,25 @@ This project is for those:
 - who want to review knowledge.
 
 I am very pleased to receive your contributions and bug fixes.
+
+## Content
+
+The following content is stored in `notebooks` folder and will be updated regularly.
+
+### Python, Data Structure and Data
+
+Python syntax, some data structure in Python and basic data manipulation with Pandas.
+
+### Basic Statistics and Data Visualization
+
+Basic statistics with Pandas and visualize data to explore data insight. 
+
+### Linear Algebra review
+
+Basic terminology of Linear Algebra using NumPy.
+
+### Fundamental of Image Processing
+
+Basic image processing with OpenCV.
+
+### to be updated
